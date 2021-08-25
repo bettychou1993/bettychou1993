@@ -5,7 +5,7 @@ I'm currently looking for a full-time position and better career prospects.
 - 👀 I'm interested in Data Analysis, Data Science, Business Analysis, Customer Relationship, and Product Management. 
 I'm thinking of taking some law courses in my leisure time.
 
-- 🌱 I'm currently learning Tableau and sharpen my skills in data science.
+- 🌱 I'm currently sharpen my skills in data science and learning Spanish.
 
 - 💞️ I'm looking to collaborate on data science projects and exciting business models.
 

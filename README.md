@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @bettychou1993. 
 I'm Fang-Yu Chou, and my friends call me Betty. 
-I'm currently looking for a full-time position and better career prospects.
+I'm currently working as a Data Scientist.
 
 - 👀 I'm interested in Data Analysis, Data Science, Business Analysis, Customer Relationship, and Product Management. 
 I'm thinking of taking some law courses in my leisure time.

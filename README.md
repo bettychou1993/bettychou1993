@@ -1,13 +1,11 @@
 - 👋 Hi, I'm @bettychou1993. 
-I'm Fang-Yu Chou, and my friends call me Betty. 
-I'm currently working as a Data Scientist.
+I'm Fang-Yu Chou, and I go by Betty. 
 
-- 👀 I'm interested in Data Analysis, Data Science, Business Analysis, Customer Relationship, and Product Management. 
-I'm thinking of taking some law courses in my leisure time.
+- 👀 I'm a Data Scientist working in the automotive industry. I'm a team player and motivated to provide business value by applying DS/ML to real-world data.
 
-- 🌱 I'm currently sharpen my skills in data science and learning Spanish.
+- 🌱 I'm currently sharpening my skills in data science skills (ex: LLM) and learning Spanish.
 
-- 💞️ I'm looking to collaborate on data science projects and exciting business models.
+- 💞️
 
 - 📫 You can reach me at fc332@cornell.edu.
 
